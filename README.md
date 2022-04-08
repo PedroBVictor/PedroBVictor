@@ -1,5 +1,4 @@
 ### Fala dev! 👋
-<p>Bem vindo ao meu Github, me chamo Pedro Victor, sou estudante e dev front-end, e nessa pagina voce pode ver alguns de meus projetos completos e alguns repositorios de estudo!</p>
 <!--
 **PedroBVictor/PedroBVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
